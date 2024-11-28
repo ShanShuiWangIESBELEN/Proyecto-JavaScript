@@ -2,7 +2,7 @@ Proyect JavaScript
 
 Here is my JavaScript Proyect, is about restaurant and plates.
 
-
+<code>
 Proyecto-JavaScript/
 ├── src/
 │   ├── restaurante/
@@ -31,3 +31,4 @@ Proyecto-JavaScript/
 │   └── main.css                      # Estilo global del proyecto
 ├── package.json                      # Configuración del proyecto
 └── README.md                         # Documentación del proyecto
+</code>
