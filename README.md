@@ -29,6 +29,7 @@ Proyecto-JavaScript/
 ├── main.js                           # Lógica de navegación general
 ├── css/
 │   └── main.css                      # Estilo global del proyecto
+├── images/
 ├── package.json                      # Configuración del proyecto
 └── README.md                         # Documentación del proyecto
 ````
