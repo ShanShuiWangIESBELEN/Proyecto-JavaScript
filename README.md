@@ -29,10 +29,6 @@ Proyecto-JavaScript/
 ├── main.js                           # Lógica de navegación general
 ├── css/
 │   └── main.css                      # Estilo global del proyecto
-├── img/
-    ├── logos
-    ├── paraPlatos
-    └── paraRestau    
 ├── package.json                      # Configuración del proyecto
 └── README.md                         # Documentación del proyecto
 ````
